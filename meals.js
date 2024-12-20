@@ -6,7 +6,7 @@ const meals = [
     price: 200,
     category: "soups",
     count: "350 г",
-    image: "assets/images/menu/gazpacho.jpg",
+    image: "gazpacho.jpg",
   },
   {
     keyword: "mushroom_soup",
@@ -14,7 +14,7 @@ const meals = [
     price: 190,
     category: "soups",
     count: "330 г",
-    image: "assets/images/menu/mushroom_soup.jpg",
+    image: "mushroom_soup.jpg",
   },
   {
     keyword: "norwegian_soup",
@@ -22,7 +22,7 @@ const meals = [
     price: 275,
     category: "soups",
     count: "350 г",
-    image: "assets/images/menu/norwegian_soup.jpg",
+    image: "norwegian_soup.jpg",
   },
   {
     keyword: "borsh",
@@ -30,7 +30,7 @@ const meals = [
     price: 270,
     category: "soups",
     count: "350 г",
-    image: "assets/images/menu/borsh.jpg",
+    image: "borsh.jpg",
   },
   {
     keyword: "chicken_soup",
@@ -38,7 +38,7 @@ const meals = [
     price: 280,
     category: "soups",
     count: "320 г",
-    image: "assets/images/menu/chickensoupe.jpg",
+    image: "chickensoupe.jpg",
   },
 
   // Main Dishes
@@ -48,7 +48,7 @@ const meals = [
     price: 150,
     category: "main-dishes",
     count: "400 г",
-    image: "assets/images/menu/friedpotatoeswithmushrooms1.jpg",
+    image: "friedpotatoeswithmushrooms1.jpg",
   },
   {
     keyword: "lasagna",
@@ -56,7 +56,7 @@ const meals = [
     price: 300,
     category: "main-dishes",
     count: "320 г",
-    image: "assets/images/menu/lasagna.jpg",
+    image: "lasagna.jpg",
   },
   {
     keyword: "chicken_cutlets",
@@ -64,7 +64,7 @@ const meals = [
     price: 350,
     category: "main-dishes",
     count: "350 г",
-    image: "assets/images/menu/chickencutletsandmashedpotatoes.jpg",
+    image: "chickencutletsandmashedpotatoes.jpg",
   },
 
   // Pizzas
@@ -74,7 +74,7 @@ const meals = [
     price: 450,
     category: "pizzas",
     count: "400 г",
-    image: "assets/images/menu/margarita.jpg",
+    image: "margarita.jpg",
   },
   {
     keyword: "four cheese",
@@ -82,7 +82,7 @@ const meals = [
     price: 500,
     category: "pizzas",
     count: "400 г",
-    image: "assets/images/menu/fourcheese.jpg",
+    image: "fourcheese.jpg",
   },
 
   // Salads
@@ -92,7 +92,7 @@ const meals = [
     price: 250,
     category: "salads",
     count: "250 г",
-    image: "assets/images/menu/caesarsalad.jpg",
+    image: "caesarsalad.jpg",
   },
   {
     keyword: "greek_salad",
@@ -100,7 +100,7 @@ const meals = [
     price: 300,
     category: "salads",
     count: "300 г",
-    image: "assets/images/menu/greeksalad.jpg",
+    image: "greeksalad.jpg",
   },
 
   // Drinks
@@ -110,7 +110,7 @@ const meals = [
     price: 100,
     category: "drinks",
     count: "300 мл",
-    image: "assets/images/menu/orangejuice.jpg",
+    image: "orangejuice.jpg",
   },
   {
     keyword: "apple_juice",
@@ -118,7 +118,7 @@ const meals = [
     price: 90,
     category: "drinks",
     count: "300 мл",
-    image: "assets/images/menu/applejuice.jpg",
+    image: "applejuice.jpg",
   },
   {
     keyword: "carrot_juice",
@@ -126,7 +126,7 @@ const meals = [
     price: 100,
     category: "drinks",
     count: "300 мл",
-    image: "assets/images/menu/carrotjuice.jpg",
+    image: "carrotjuice.jpg",
   },
   {
     keyword: "grapefruit_juice",
@@ -134,6 +134,6 @@ const meals = [
     price: 110,
     category: "drinks",
     count: "300 мл",
-    image: "assets/images/menu/grapefruitjuice.jpg",
+    image: "grapefruitjuice.jpg",
   },
 ];
