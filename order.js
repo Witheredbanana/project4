@@ -1,4 +1,3 @@
-// order.js
 const order = {
     soup: null,
     mainDish: null,
